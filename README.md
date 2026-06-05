@@ -1,6 +1,5 @@
 # Conference-Posters-Slides
 Archive of conference materials
 
-### 1. The Integrating Factor as Operator Conjugation
-* **Conference:** ASPiRE 2026
+### ASPiRE 2026 Poster
 * [View & Download Full Poster PDF](ASPiRE%202026/llima_ASPiRE_2026.pdf)
